@@ -1,0 +1,7 @@
+configs:
+ use: local
+ local:
+  vm_ip: "192.168.2.11"
+  vm_mem: 4048
+  vm_cpu: 2
+  proxy: "http://squid:8080"
